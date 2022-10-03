@@ -1,5 +1,6 @@
 #Report
-Predicting Load Eligibility
+
+Predicting Load Eligibility 
 
 
 In this project of Loan Prediction we are trying to analyse our customers and trying to predict which cutomer has the imence need of loan.So basically we are trying to reach out to the right people at the right time.
